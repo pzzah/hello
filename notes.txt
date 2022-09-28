@@ -1,0 +1,2 @@
+This is the fix for issue #1
+Added the requested second line
